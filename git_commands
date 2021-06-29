@@ -1,7 +1,7 @@
 branch
 init
 clone
-remote add origin
+remote add origin ----
 add
 commit
 status
@@ -9,3 +9,4 @@ log
 remote
 push
 pull
+checkout
